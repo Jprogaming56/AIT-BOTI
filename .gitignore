@@ -1,0 +1,14 @@
+.gradle/
+build/
+run/
+out/
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+eclipse/
+# Third-party mod jars are compile-only inputs. Do not publish them (AIT is ARR/LGPL, IP is Apache-2.0).
+libs/*.jar
+!libs/.gitkeep
